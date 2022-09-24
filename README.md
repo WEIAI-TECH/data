@@ -10,4 +10,4 @@ These are datasets used for my online courses:
 
 The course web are:
 
-https://sdit.tech/courses-list/
+https://deepsim.institute/
