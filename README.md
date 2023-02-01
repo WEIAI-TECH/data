@@ -10,4 +10,4 @@ These are datasets used for my online courses:
 
 The course web are:
 
-https://deepsim.institute/
+https://academy.deepsim.xyz/
